@@ -7,4 +7,4 @@ Previews;
 https://imgur.com/a/wclw3DZ
 https://imgur.com/a/kAH2kBI
 
-Built for learning, available to use, but not something I’ll be promoting
+Built for learning, available to use, but not something I’ll be promoting or maintaining
