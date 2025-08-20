@@ -1,0 +1,20 @@
+{
+  "scoreboard": {
+    "title": "Scoreboard",
+    "player_info": "Player Info",
+    "server_id": "Server ID",
+    "username": "Username",
+    "identifiers_below": "Identifiers Below:",
+    "steam_hex": "Steam Hex",
+    "fivem": "FiveM",
+    "discord": "Discord",
+    "copied": "Copied to Clipboard",
+    "steam_copied": "Steam Hex copied successfully",
+    "fivem_copied": "FiveM copied successfully",
+    "discord_copied": "Discord copied successfully",
+    "no_data": "No Data",
+    "steam_not_available": "Steam Hex not available",
+    "fivem_not_available": "FiveM not available",
+    "discord_not_available": "Discord not available"
+  }
+}
